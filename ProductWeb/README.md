@@ -9,6 +9,6 @@
 
 **Delete Product**->[Click here](https://github.com/rashmitha006/Product-Managent-System/tree/main/ProductWeb/DeleteProduct.png)
 
-**Display Product**->[Click here](https://github.com/rashmitha006/Product-Managent-System/tree/main/ProductWeb/DisplayProduct.png)
+**Display Product**->[Click here](https://github.com/rashmitha006/Product-Managent-System/tree/main/ProductWeb/Display.png)
 
 **Report**->[Click here](https://github.com/rashmitha006/Product-Managent-System/tree/main/ProductWeb/Report.png)
